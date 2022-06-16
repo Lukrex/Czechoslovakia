@@ -1,0 +1,35 @@
+[
+	{
+		"name": "Czechoslovakia",
+		"leaderName": "Tomáš G. Masaryk",
+		"adjective": ["Czechoslovak"],
+		"startBias": ["Avoid [Tundra]"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Oh, Czechoslovakia. Our united land of the twetieth century. ",
+		"startIntroPart2": "Can you lead us towards victory? Or will you fall into the dust again. ",
+		
+		"declaringWar": "Some more land might as well come in handy to our people.",
+		"attacked": "Is it Germany? No, just a naive militarist. Let's put up a fair fight.",
+		"defeated": "Isn't a second chance possible? Please stop your land-lust.",
+		"introduction": "We are Czechoslovakia, and we look for no more than mutual properity for both of us.",
+		
+		"neutralHello": "Welcome, friend.",
+		"neutralLetsHearIt": ["Yes.","Let's discuss."],
+		"neutralNo": ["No way.","Never!"],
+		"neutralYes": ["Very good.","Of course, yes.","I gladly accept."],
+		"hateHello": "What do YOU want?!",
+		"hateLetsHearIt": "Just speak, don't waste my time!",
+		"hateNo": ["Are you joking?","Are you sure?"],
+		"hateYes": ["I can accept.","Fine.","Let it be."],
+		
+		"afterPeace": "Let there be prosperity again.",
+		"tradeRequest": "This may be beneficial for both of us.",
+
+		"outerColor": [216, 12, 19],
+		"innerColor": [8, 67, 127],
+		"uniqueName": "A bunch of slavs",
+		"cities": ["Praha","Bratislava","Brno","Ostrava","Košice","Plzeň","Liberec","Olomouc","Prešov","České Budejovice",
+			"Hradec Králové","Žilina","Pardubice","Zlín","Martin","Nitra","Karlovy Vary","Banská Bystrica","Kladno","Trnava","Trenčín"]
+	}
+]
